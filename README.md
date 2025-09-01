@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Moritz Nelle 👋
 
-<!--
-**MoritzNelle/MoritzNelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Crop Science @ Wageningen University & Research (WUR)**  
+🔜 **Future PhD Student @ NMBU**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate interdisciplinary scientist, just wrapping up my master’s in Crop Science at WUR and soon to begin my PhD at NMBU. My journey bridges plant research, technical prototyping, and creative problem solving.
+
+- 🌾 **Crop Science**: Bachelor and Master in Crop Science
+- 🧪 **Lab skills**: certified biological technical assistance
+- 🛠️ **Hardware**: Microcontrollers (ESP32, Arduino), 3D printing, laser-cutting
+- 💻 **Programming**: C/C++, MicroPython, VS Code, PlatformIO
+- 🔍 **Curious about**: Smart agriculture, automation, open-source hardware
+
+[See my full skill set →](https://moritznelle.com/skills/)
+
+---
+
+## 🌱 Interests
+
+Outside the lab, you’ll find me:
+
+- 📚 Reading
+- 💻 Programming & tinkering
+- 🥾 Hiking
+
+---
+
+## 🌐 Connect
+
+- 🌍 [www.moritznelle.com](https://www.moritznelle.com)
