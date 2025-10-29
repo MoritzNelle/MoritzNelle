@@ -1,7 +1,6 @@
 # Hi, I'm Moritz 👋
 
-🎓 **MSc Crop Science @ Wageningen University & Research (WUR)**  
-🔜 **Future PhD Student @ NMBU**
+🎓 **PhD Student @ NMBU**
 
 ---
 
