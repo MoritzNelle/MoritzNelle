@@ -1,12 +1,6 @@
 # Hi, I'm Moritz 👋
 
-🎓 **PhD Student @ NMBU**
-
----
-
-## 🚀 About Me
-
-I’m a passionate interdisciplinary scientist, just wrapping up my master’s in Crop Science at WUR and soon to begin my PhD at NMBU. My journey bridges plant research, technical prototyping, and creative problem solving.
+Hi there! I'm Moritz, a PhD student 🎓 at the intersection of crops 🌾 and technology 💻, asking the question how we can use technology to advance crop science and agriculture in a practical and meaningful way. For this, I have developed a range of skills, including.
 
 - 🌾 **Crop Science**: Bachelor and Master in Crop Science
 - 🧪 **Lab skills**: certified biological technical assistance
@@ -15,19 +9,3 @@ I’m a passionate interdisciplinary scientist, just wrapping up my master’s i
 - 🔍 **Curious about**: Smart agriculture, automation, open-source hardware
 
 [See my full skill set →](https://moritznelle.com/skills/)
-
----
-
-## 🌱 Interests
-
-Outside the lab, you’ll find me:
-
-- 📚 Reading
-- 💻 Programming & tinkering
-- 🥾 Hiking
-
----
-
-## 🌐 Connect
-
-- 🌍 [www.moritznelle.com](https://www.moritznelle.com)
